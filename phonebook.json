@@ -1,12 +1,1 @@
-{
-    "contents": [
-        {
-            "first_name": "Louis",
-            "last_name": "Buckalew",
-            "addr1": "803 W. Longleaf Dr. Unit 12",
-            "addr2": "Auburn, AL 36832",
-            "homePh": "555.555.5555",
-            "cellPh": "555.555.5555"
-        }
-    ]
-}
+{"contents": [{"first_name": "Louis", "last_name": "Buckalew", "cellPh": "5555555555", "addr2": "Auburn, AL 36832", "addr1": "803 W. Longleaf Dr. Unit 12", "homePh": "5555555555"}]}
